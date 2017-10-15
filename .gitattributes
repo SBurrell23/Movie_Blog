@@ -16,4 +16,4 @@
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
 
-*.php linguist-language=Angular
+*.php linguist-language=Javascript
